@@ -42,9 +42,9 @@
                             this.setTooltip("");
                             this.setHelpUrl("");
                         }
+                    }, 
                     "generator": function(block) { // The Lua generator (see https://developers.google.com/blockly/guides/create-custom-blocks/generating-code)
                         return "print(\"Hello World\")\n";
-                    }
                 }
             ]
         }
