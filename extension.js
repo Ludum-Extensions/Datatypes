@@ -102,7 +102,7 @@
                                 ]), "BRICKCOLORS");
                             this.setOutput(true, null);
                             this.setColour(230);
-                            this.setTooltip("The BrickColor data type provides a predefined list of named colors, not to be confused with Color3, a more general data type that describes RGB colors.");
+                            this.setTooltip("The BrickColor data type provides a predefined list of named colors instead of RGB Values.");
                             this.setHelpUrl("https://create.roblox.com/docs/reference/engine/datatypes/BrickColor");
                         }
                     },
