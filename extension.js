@@ -1,6 +1,6 @@
 {
-    "name": "Hello World", // Users will see this name in the extension manager
-    "description": "A simple extension that add blocks which print \"Hello World\" or \"Goodbye World\" to the console.", // Also shown in the extension manager
+    "name": "Data Types",
+    "description": "A extension that adds Data Types, Data Types are types unique to the Roblox engine. They can contain constructors, properties, and methods.", // Also shown in the extension manager
     "version": "1.0.0", // Must be in format Major.Minor.Patch (see https://semver.org/)
     "ludumVersion": "1.0.0", // The version of Ludum this extension was made for
     "categories": [ // The categories that the extension adds to the left toolbox
